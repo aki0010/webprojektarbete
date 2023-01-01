@@ -93,3 +93,7 @@
 .account-info {
   margin-top: var(--acc-info-mt);
 }
+
+.card{
+  margin-top: 10%;
+}
